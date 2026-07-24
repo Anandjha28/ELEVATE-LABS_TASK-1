@@ -1,0 +1,43 @@
+# Sales Dashboard - Data Visualization & Storytelling
+
+## 📌 Objective
+The objective of this project is to analyze sales data and create meaningful visualizations that communicate business insights using Microsoft Power BI.
+
+## 🛠 Tools Used
+- Microsoft Power BI
+- Sample Superstore Dataset
+
+## 📊 Dashboard Features
+- Total Sales KPI
+- Sales Trend by Year
+- Sales by Category
+- Sales by Region
+- Sales by Segment
+- Interactive Dashboard
+
+## 📈 Key Insights
+- Total Sales reached **$2.26M**.
+- Sales increased consistently from 2015 to 2018.
+- Technology generated the highest sales.
+- West region recorded the highest sales.
+- Consumer segment contributed around 51% of total sales.
+
+## 💡 Business Recommendations
+- Increase marketing in the South region.
+- Focus on expanding Technology products.
+- Improve engagement with Corporate and Home Office customers.
+- Track regional performance regularly.
+
+## 📷 Dashboard Preview
+
+(Add your dashboard screenshot here)
+
+## 📁 Files Included
+
+- Sales_Dashboard.pbix
+- Summary_Report.pdf
+- Sample-Superstore.csv
+
+## 👨‍💻 Author
+
+Anand Jha
